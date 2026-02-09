@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.killerfran38" name="Repo killerfran38" version="1.0.0" provider-name="killerfran38">
+<requires>
+<import addon="xbmc.addon" version="12.0.0"/>
+</requires>
+<extension point="xbmc.addon.repository" name="killerfran38 Addon Repository">
+<dir minversion="12.0.0">
+<info compressed="false">https://killerfran38.github.io/addons.xml</info>
+<checksum>https://killerfran38.github.io/addons.xml.md5</checksum>
+<datadir zip="true">https://killerfran38.github.io/</datadir>
+</dir>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>Mi repositorio personal</summary>
+<description>Addons y repositorios mantenidos por killerfran38</description>
+<platform>all</platform>
+<assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+</assets>
+</extension>
+</addon>
+</addons>
