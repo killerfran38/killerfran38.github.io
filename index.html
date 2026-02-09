@@ -1,45 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Mi Fuente para Kodi</title>
+    <title>Mi Fuente para Kodi - Inicio</title>
+    <link rel="stylesheet" href="assets/style.css">
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            color: #333;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            margin: 15px 0;
-        }
-        a {
+        /* Estilos básicos si no usas el CSS externo */
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        .menu { margin: 30px 0; }
+        .boton-categoria {
+            display: block;
+            width: 250px;
+            margin: 15px auto;
+            padding: 18px;
+            font-size: 1.2em;
             text-decoration: none;
             color: white;
-            background-color: #007bff;
-            padding: 10px 20px;
-            border-radius: 5px;
+            background: linear-gradient(to right, #007bff, #6610f2);
+            border-radius: 10px;
             font-weight: bold;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
-        a:hover {
-            background-color: #0056b3;
-        }
+        .boton-categoria:hover { transform: scale(1.05); box-shadow: 0 6px 12px rgba(0,0,0,0.15); }
+        .info { margin-top: 40px; color: #666; font-size: 0.9em; }
     </style>
 </head>
 <body>
-    <h1>Bienvenido a mi fuente de Kodi</h1>
-    <p>Descarga los add-ons desde los siguientes enlaces:</p>
-    <ul>
-        <li><a href="plugin.video.ejemplo.zip">Addon de Video Ejemplo</a></li>
-        <li><a href="repository.mirepo.zip">Mi Repositorio</a></li>
-        <li><a href="guia-instalacion.txt">Guía de Instalación</a></li>
-    </ul>
-    <p style="margin-top: 40px; font-size: 0.9em; color: #666;">Sitio creado con GitHub Pages.</p>
+    <h1>🎬 Mi Fuente Completa para Kodi</h1>
+    <p>Selecciona una categoría para explorar los contenidos disponibles:</p>
+    
+    <div class="menu">
+        <a href="addons-de-video.html" class="boton-categoria">📺 ADDONS DE VIDEO</a>
+        <a href="repositorios.html" class="boton-categoria">📦 REPOSITORIOS</a>
+    </div>
 </body>
 </html>
