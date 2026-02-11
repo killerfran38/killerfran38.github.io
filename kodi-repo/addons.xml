@@ -31,6 +31,7 @@
             <summary>Contenido en portugués</summary>
             <description>Addon de vídeo Águia Branca</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/plugin.video.aguia-branca.zip</zip>
         </extension>
     </addon>
 
@@ -45,6 +46,7 @@
             <summary>Televisión y contenido variado</summary>
             <description>KodisPain TV - Canales y series</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/plugin.video.kodispaintv-3.4.0.zip</zip>
         </extension>
     </addon>
 
@@ -59,6 +61,7 @@
             <summary>Gestión de listas de reproducción</summary>
             <description>PlaylistBee - Crea y comparte listas</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/plugin.video.playlistbee-3.1.zip</zip>
         </extension>
     </addon>
 
@@ -75,6 +78,7 @@
             <summary>Películas, Series y más...</summary>
             <description>Addon Tacones - Contenido variado</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/plugin.video.tacones-3.5.6.zip</zip>
         </extension>
     </addon>
 
@@ -90,6 +94,7 @@
             <summary>Streaming de música MP3</summary>
             <description>Escucha música online desde múltiples fuentes</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/plugin.audio.mp3streams-25.3.31.zip</zip>
         </extension>
     </addon>
 
@@ -103,6 +108,7 @@
             <summary>Gestión avanzada de favoritos</summary>
             <description>Organiza, exporta, importa y comparte tus favoritos</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/plugin.program.super.favourites-2.2.5.zip</zip>
         </extension>
     </addon>
 
@@ -115,6 +121,7 @@
             <summary>Mantenimiento y limpieza</summary>
             <description>Limpia caché, paquetes y optimiza Kodi</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/script.ezmaintenanceplus-2023.01.09.0.zip</zip>
         </extension>
     </addon>
 
@@ -127,6 +134,7 @@
             <summary>Test de velocidad</summary>
             <description>Mide tu velocidad de internet desde Kodi</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/script.speedtester-1.1.3.zip</zip>
         </extension>
     </addon>
 
@@ -139,6 +147,7 @@
             <summary>Utilidades Horus</summary>
             <description>Módulo de funciones para addons</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/script.module.horus.zip</zip>
         </extension>
     </addon>
 
@@ -152,6 +161,7 @@
             <summary>Skin moderno y oscuro</summary>
             <description>Black Glass Nova 21 - Skin elegante para Kodi</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/skin.blackglassnova21.zip</zip>
         </extension>
     </addon>
 
@@ -164,6 +174,7 @@
             <summary>Estuary modificado</summary>
             <description>Modificación del skin Estuary con mejoras</description>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/addons/skin.estuary.pkscout.mod.zip</zip>
         </extension>
     </addon>
 
@@ -173,6 +184,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio GTKing Phoenix</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.GTKing-Phoenix-21.0.0.zip</zip>
         </extension>
     </addon>
 
@@ -181,6 +193,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio AceStream</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.acestream-channels.zip</zip>
         </extension>
     </addon>
 
@@ -189,6 +202,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Alfa</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.alfa-addon.zip</zip>
         </extension>
     </addon>
 
@@ -197,6 +211,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio AutoWidget</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.autowidget-1.1.zip</zip>
         </extension>
     </addon>
 
@@ -205,6 +220,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Balandro</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.balandro-4.0.1.zip</zip>
         </extension>
     </addon>
 
@@ -213,6 +229,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio DendyGH</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.dendygh-1.3.zip</zip>
         </extension>
     </addon>
 
@@ -221,6 +238,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Elementum</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.elementumorg-0.0.7.zip</zip>
         </extension>
     </addon>
 
@@ -229,6 +247,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Etupalant</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.etupalant.zip</zip>
         </extension>
     </addon>
 
@@ -237,6 +256,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Ivarbrandt</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.ivarbrandt-1.0.1.zip</zip>
         </extension>
     </addon>
 
@@ -245,6 +265,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Jurialmunkey</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.jurialmunkey-3.4.zip</zip>
         </extension>
     </addon>
 
@@ -253,6 +274,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Michaz</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.michaz-5.0.zip</zip>
         </extension>
     </addon>
 
@@ -261,6 +283,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Peno64</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.peno64-1.5.zip</zip>
         </extension>
     </addon>
 
@@ -269,6 +292,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Remod</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.remod-25.09.18.0.zip</zip>
         </extension>
     </addon>
 
@@ -277,6 +301,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio SlyGuy</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.slyguy.zip</zip>
         </extension>
     </addon>
 
@@ -285,6 +310,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio The Black Host</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.theblackhost-0.0.7.zip</zip>
         </extension>
     </addon>
 
@@ -293,6 +319,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio Titan Bingie Mod</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.titan.bingie.mod-2.0.1.zip</zip>
         </extension>
     </addon>
 
@@ -301,6 +328,7 @@
         <extension point="xbmc.addon.metadata">
             <summary>Repositorio VChopo</summary>
             <platform>all</platform>
+            <zip>https://killerfran38.github.io/kodi-repo/repositorios/repository.vchopo-3.zip</zip>
         </extension>
     </addon>
 </addons>
